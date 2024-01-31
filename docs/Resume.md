@@ -1,4 +1,5 @@
 # Umakanth Ayalasomayajula
+![Umakanth]()
 **Baltimore, MD | aumakanth1997@gmail.com | +1 (443) 739-7070 | [LinkedIn](LinkedIn-Profile-Link)**
 
 ## OBJECTIVE
