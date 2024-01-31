@@ -1,5 +1,7 @@
 # Umakanth Ayalasomayajula
-![Umakanth]()
+![Umakanth](https://github.com/UmakanthA/UMBC-DATA606-Capstone/blob/main/docs/Umakanth_Photo_Linkedin.JPG)
+
+
 **Baltimore, MD | aumakanth1997@gmail.com | +1 (443) 739-7070 | [LinkedIn](LinkedIn-Profile-Link)**
 
 ## OBJECTIVE
