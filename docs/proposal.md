@@ -1,13 +1,13 @@
 # Unveiling Health Patterns through Socio-Demographic Analysis using Databricks and Streamlit
 
 ## Introduction
-Our project aims to analyze and visualize socio-demographic factors and health metrics related to nutrition, physical activity, and obesity using data obtained from the Behavioral Risk Factor Surveillance System (BRFSS) by the Centers for Disease Control and Prevention (CDC).The ultimate goal is to develop interactive dashboards using Streamlit to empower users to explore and understand health disparities and trends, filtering by location, ethnicity, and socio-economic status.
+This project aims to analyze and visualize socio-demographic factors and health metrics related to nutrition, physical activity, and obesity using data obtained from the Behavioral Risk Factor Surveillance System (BRFSS) by the Centers for Disease Control and Prevention (CDC).The ultimate goal is to develop interactive dashboards using Streamlit to empower users to explore and understand health disparities and trends, filtering by location, ethnicity, and socio-economic status.
 
 ## Background
 The Nutrition, Physical Activity, and Obesity dataset provides crucial insights into adults' dietary habits, physical activity levels, and weight status. This dataset offers comprehensive national and state-specific information on obesity prevalence, nutrition patterns and physical activity trends. It serves as a valuable resource for understanding and addressing public health challenges related to nutrition, physical activity, and obesity across the United States.
 
 ## Dataset
-The dataset it sourced from Data.gov, which is the Home of the U.S. Government's Open Data. Consisting of 93.2k rows and 33 columns, this dataset includes information on adults' diet, physical activity and weight status of multiple demographies of each and every state of the USA. 
+The dataset it sourced from Data.gov, consisting of approximately 94000 rows and 33 columns. Each row of the dataset includes information on adults' diet, physical activity and weight status of multiple demographies of each and every state of the USA. 
 
 Dataset link - https://catalog.data.gov/dataset/nutrition-physical-activity-and-obesity-behavioral-risk-factor-surveillance-system.
 
