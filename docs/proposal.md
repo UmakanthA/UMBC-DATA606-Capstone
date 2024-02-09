@@ -37,7 +37,7 @@ There are several columns with a substantial amount of missing data, such as Dat
 ## Tools and Technologies
 **PostgreSQL**: advanced open source database for data storage, efficient querying, manipulating and managing the data.
 
-**Databricks**: open analytics platform for building and deploying machine learning tasks. to perform initial data analysis, for cleaning and preprosessing the dataset and for creating and running machine learning models.
+**Databricks**: open analytics platform for building and deploying machine learning tasks,to perform initial data analysis, for cleaning and preprosessing the dataset.
 
 **Snowflake**: cloud based analytics service.
 
@@ -45,7 +45,7 @@ There are several columns with a substantial amount of missing data, such as Dat
 
 ## Proposed workflow
 1. **Data Collection**: download the CDC Nutrition, Physical Activity, and Obesity - Behavioral Risk Factor Surveillance System dataset and store it in PostgreSQL.
-2. **Exploratory Data Analysis and model development**: we use databricks to perform initial data analysis, for cleaning and preprosessing the dataset and also for creating and running machine learning models. We try to predict obesity rates, classify health behaviour etc.
+2. **Exploratory Data Analysis and model development**: we use databricks to perform initial data analysis, for cleaning and preprosessing the dataset. 
 3. **Data Visualization**: using Snowflake for data visualization, we visualize the data based on the most relevant parameters.
 4. **Web application**: with the help of Streamlit, we create and represent interactive dashboards like obesity prevalence dashboard, health disparity dashboard by region etc.These dashboards can provide valuable insights into the relationships between socio-demographic factors and health outcomes, helping users understand health disparities and trends and informing public health interventions and policy-making efforts.
 
