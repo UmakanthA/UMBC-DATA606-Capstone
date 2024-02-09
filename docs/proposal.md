@@ -42,4 +42,10 @@ There are several columns with a substantial amount of missing data, such as Dat
 ## Conclusion
 The project aims to contribute to the collective efforts in driving positive change in the realm of public health. With the interactive dashboards generated through our workflow, we aspire to facilitate data-driven dialogue and inspire impactful interventions to address the pressing health challenges faced by communities across the nation.
 
+## Future Scope
+Describe the current status of overweight/obesity, physical activity and nutrition in the Obesity, Physical Activity and Nutrition in each of the annual state health reports.
+Evaluate the health of the state population by monitoring chronic diseases, infectious diseases, nutrition, physical activity, obesity.
+Provide relevant data to the respective state healthcare departments.
+
+
 
