@@ -21,7 +21,7 @@ The Nutrition, Physical Activity, and Obesity dataset provides crucial insights 
 - Time period: 2011 to 2023
 - Data dictionary:
 
-  | Column Name             | Description                                   |
+| Column Name             | Description                                   |
 |-------------------------|-----------------------------------------------|
 | YearStart               | Year start                                    |
 | YearEnd                 | Year End (for single-year indicator, year end=year start) |
