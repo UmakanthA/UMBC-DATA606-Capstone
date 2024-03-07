@@ -60,8 +60,6 @@ The Nutrition, Physical Activity, and Obesity dataset provides crucial insights 
 
 ## EDA
 
-![image](https://github.com/UmakanthA/UMBC-DATA606-Capstone/assets/113398977/166affd1-9b65-4f18-981a-759fa90575e6)
-
 ![image](https://github.com/UmakanthA/UMBC-DATA606-Capstone/assets/113398977/b0af9f57-8828-4d60-9047-a094e1637048)
 
 ![image](https://github.com/UmakanthA/UMBC-DATA606-Capstone/assets/113398977/0d3b77be-9818-4b19-acc6-0327f014dc6a)
