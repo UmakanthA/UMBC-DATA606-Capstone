@@ -1,6 +1,6 @@
 ## Title and Author
 
-- Unveiling Health Patterns through Socio-Demographic Analysis using Databricks and Streamlit
+- Unveiling Health Patterns through Socio-Demographic Analysis using Databricks and Tableau
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
 - Umakanth Ayalasomayajula
 - Github: https://github.com/UmakanthA
