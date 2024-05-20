@@ -61,9 +61,43 @@ The Nutrition, Physical Activity, and Obesity dataset provides crucial insights 
 ## Exploratory Data Analysis
 
 Below image shows the average data value for each of the questions of the survey, from 2011 to 2022
+
 ![Average Data value for each question](https://github.com/UmakanthA/UMBC-DATA606-Capstone/assets/113398977/8568c1f7-7d20-41bb-94f1-aafa7e72de30)
 
-Below dashboard shows the 
+Below dashboard shows the health stats by education, income, and race.
+![Dashboard1 - Socio Demographic response based on sample size](https://github.com/UmakanthA/UMBC-DATA606-Capstone/assets/113398977/5731c948-e696-4388-8428-52ce0fa1bd8a)
+
+Below dashboard shows the average education, income and the age categories of the average sample size
+![Dashboard 3](https://github.com/UmakanthA/UMBC-DATA606-Capstone/assets/113398977/555cccbf-501e-4c9a-838c-64dcf62bf3cc)
+
+Below dashboard shows the stats based on demography
+![Dashboard 2 - Statistics by region](https://github.com/UmakanthA/UMBC-DATA606-Capstone/assets/113398977/a06b12d9-d4e1-47fc-b1d9-7cdb154ec8bd)
+
+
+## Model building
+
+The ARIMA time series model has been selected for the datset. The model can be used to predict the datavalue, which is the target variable, for any question and any location accurately
+![image](https://github.com/UmakanthA/UMBC-DATA606-Capstone/assets/113398977/1d91ac96-dde9-44b3-a34c-df2b32658de9)
+
+## Application of shared model
+
+Developed a web application to deploy the ARIMA model.
+![image](https://github.com/UmakanthA/UMBC-DATA606-Capstone/assets/113398977/36e89a21-7d93-447e-a74c-9da422adf266)
+
+## Conclusion
+
+Geographic disparities exist in obesity and overweight rates across states, emphasizing the need for tailored interventions based on regional trends.
+
+Encouraging regular physical activity and healthy eating habits, such as consuming fruits and vegetables, can significantly reduce the risk of obesity and related health complications.
+
+States with higher rates of physical activity demonstrate lower obesity prevalence, highlighting the importance of promoting an active lifestyle at the population level.
+
+Long-term public health strategies should focus on addressing behavioral factors, improving access to healthy foods, and creating environments that support physical activity to combat the obesity epidemic effectively.
+
+
+
+
+
 
 
 
