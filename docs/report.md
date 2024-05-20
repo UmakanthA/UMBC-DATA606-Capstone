@@ -5,7 +5,7 @@
 - Umakanth Ayalasomayajula
 - Github: [Umakanth_A_Project](https://github.com/UmakanthA/UMBC-DATA606-Capstone/tree/main)
 - LinkedIn: [Linkedin](https://www.linkedin.com/in/umakanth1997)
-- Presentation: [Presentation](https://docs.google.com/presentation/d/1iDys5JV0nay67nGecNq0eYaZ-LwoeLiK/edit#slide=id.p1)
+- Presentation: [Presentation](https://docs.google.com/presentation/d/1YSI47oIjJzVTlNE69WQY3UtSxcm8MBNT/edit#slide=id.p1)
 - Youtube:
 
 ## Background
@@ -58,14 +58,8 @@ The Nutrition, Physical Activity, and Obesity dataset provides crucial insights 
 | StratificationID1       | Lookup identifier value for StratificationCategory1 |
 
 
-## EDA
+## Exploratory Data Analysis
 
-![image](https://github.com/UmakanthA/UMBC-DATA606-Capstone/assets/113398977/b0af9f57-8828-4d60-9047-a094e1637048)
 
-![image](https://github.com/UmakanthA/UMBC-DATA606-Capstone/assets/113398977/0d3b77be-9818-4b19-acc6-0327f014dc6a)
-
-![image](https://github.com/UmakanthA/UMBC-DATA606-Capstone/assets/113398977/463666bd-aac4-49cb-99c1-7bcd366694a9)
-
-![image](https://github.com/UmakanthA/UMBC-DATA606-Capstone/assets/113398977/891ec5b7-df72-495a-b1ee-c116d9f89150)
 
 
