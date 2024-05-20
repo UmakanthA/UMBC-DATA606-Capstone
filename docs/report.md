@@ -3,9 +3,9 @@
 - Unveiling Health Patterns through Socio-Demographic Analysis using Tableau and Streamlit
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
 - Umakanth Ayalasomayajula
-- Github: https://github.com/UmakanthA/UMBC-DATA606-Capstone
-- LinkedIn: https:www.linkedin.com/in/umakanth1997
-- Presentation:
+- Github: Umakanth_A_Capstone
+- LinkedIn: Linkedin
+- Presentation: Presentation
 - Youtube:
 
 ## Background
