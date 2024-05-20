@@ -5,7 +5,7 @@
 - Umakanth Ayalasomayajula
 - Github: [Umakanth_A_Project](https://github.com/UmakanthA/UMBC-DATA606-Capstone/tree/main)
 - LinkedIn: [Linkedin](https://www.linkedin.com/in/umakanth1997)
-- Presentation: [Presentation](https://docs.google.com/presentation/d/1YSI47oIjJzVTlNE69WQY3UtSxcm8MBNT/edit#slide=id.p1)
+- Presentation: [Presentation](https://docs.google.com/presentation/d/1KqISIock8gKCqZ27LiqEUtQAZYpg8EgK/edit#slide=id.p1)
 - Youtube:
 
 ## Background
