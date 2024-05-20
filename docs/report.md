@@ -60,6 +60,13 @@ The Nutrition, Physical Activity, and Obesity dataset provides crucial insights 
 
 ## Exploratory Data Analysis
 
+Below image shows the average data value for each of the questions of the survey, from 2011 to 2022
+![Average Data value for each question](https://github.com/UmakanthA/UMBC-DATA606-Capstone/assets/113398977/8568c1f7-7d20-41bb-94f1-aafa7e72de30)
+
+Below dashboard shows the 
+
+
+
 
 
 
